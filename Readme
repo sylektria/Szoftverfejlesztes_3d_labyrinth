@@ -1,0 +1,3 @@
+This is a simple Unity game controlling by kinect. 
+To achieve victory you need to collect all the coins in the labyrinth. The game only support fullHD (1920x1080) display.
+The kinect controlling is simple, close your left hand to run forward and the right hand to able to control the character with "swipe" motion.
